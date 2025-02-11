@@ -5,7 +5,7 @@ import QuizGame from "./../data/images/QuizGame.png";
 import WeatherApp from "./../data/images/WeatherApp.png";
 import StoreApi from "./../data/images/StoreApi.png"
 import Blueprint from "./../data/images/Blueprint.png"
-
+import TailwindCSS from "./../data/images/TailwindCSS.png"
 export const Bio = {
     name: "Rishwanth S",
     roles: [
@@ -61,6 +61,11 @@ export const Bio = {
           name: "Blueprint JS",
           image:
             Blueprint,
+        },
+        {
+          name: "Tailwind CSS",
+          image:
+            TailwindCSS,
         },
         
       ],
