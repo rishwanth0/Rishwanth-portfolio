@@ -27,30 +27,15 @@ export const Bio = {
     {
       title: "Frontend",
       skills: [
-        {
-          name: "React Js",
-          image:
-            "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
-        },
-        {
-          name: "Redux",
-          image:
-            "https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg",
-        },
-        
-        {
+         {
           name: "HTML",
           image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
         },
+       
         {
           name: "CSS",
           image:
             "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png",
-        },
-        {
-          name: "JavaScript",
-          image:
-            "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
         },
         {
           name: "Bootstrap",
@@ -67,7 +52,21 @@ export const Bio = {
           image:
             TailwindCSS,
         },
-        
+        {
+          name: "JavaScript",
+          image:
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
+        },
+        {
+          name: "React Js",
+          image:
+            "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
+        },
+        {
+          name: "Redux",
+          image:
+            "https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg",
+        },
       ],
     },
     {
@@ -85,10 +84,11 @@ export const Bio = {
     {
       title: "Languages",
       skills: [
+        
         {
-          name: "Java",
+          name: "C Programming",
           image:
-            "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
+            "https://gimgs2.nohat.cc/thumb/f/640/c-language-global-or-external-variables-with-examples-c-programming-logo--m2H7G6A0b1A0K9m2.jpg",
         },
         {
           name: "C++",
@@ -96,9 +96,9 @@ export const Bio = {
             "https://pluralsight.imgix.net/paths/path-icons/c-plus-plus-93c7ddd5cc.png",
         },
         {
-          name: "C Programming",
-          image:
-            "https://gimgs2.nohat.cc/thumb/f/640/c-language-global-or-external-variables-with-examples-c-programming-logo--m2H7G6A0b1A0K9m2.jpg",
+            name: "Java",
+            image:
+              "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
         },
         
       ],
