@@ -1,6 +1,6 @@
 import indier from "./../data/images/indier.png";
 import waterzone from "./../data/images/waterzone.png";
-import Rishwanth_Resume from "./../data/document/Rishwanth_Resume.pdf";
+import Rishwanth_S_Resume from "./../data/document/Rishwanth_S_Resume.pdf";
 import QuizGame from "./../data/images/QuizGame.png";
 import WeatherApp from "./../data/images/WeatherApp.png";
 import StoreApi from "./../data/images/StoreApi.png"
@@ -18,7 +18,7 @@ export const Bio = {
     github: "https://github.com/rishavchanda",
     resume:
       "https://drive.google.com/drive/folders/1OP6nKS29y5Si0XfVGP_z8lU6NsYEBef9?usp=drive_link",
-      resume2: Rishwanth_Resume ,
+      resume2: Rishwanth_S_Resume ,
 
     linkedin: "https://www.linkedin.com/in/rishwanth-s-466390201/",
   };
