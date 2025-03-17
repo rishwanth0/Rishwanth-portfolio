@@ -6,6 +6,8 @@ import WeatherApp from "./../data/images/WeatherApp.png";
 import StoreApi from "./../data/images/StoreApi.png"
 import Blueprint from "./../data/images/Blueprint.png"
 import TailwindCSS from "./../data/images/TailwindCSS.png"
+import To_do from "./../data/images/To_do.png";
+
 export const Bio = {
     name: "Rishwanth S",
     roles: [
@@ -256,7 +258,7 @@ export const Bio = {
     {
       id: 4,
       title: "Retail Store Management Application",
-      date: "December 2024 - December 2024",
+      date: "December 2024 - January 2024",
       description:
         "This project is an E-Commerce Storefront Application built using React. It integrates the Fake Store API to fetch product details and provides features such as adding, updating, and deleting products. Users can manage a shopping cart, add custom products, and dynamically edit product details like price and ratings. The app uses React Router for navigation, the Blueprint.js library for UI components, and a toaster system for user notifications. The project emphasizes asynchronous data handling, state management, and a modular component-based architecture for a responsive and interactive user experience.",
       image:
@@ -265,6 +267,19 @@ export const Bio = {
       
       github: "",
       webapp: "https://lambent-phoenix-96b31e.netlify.app/",
+    },
+    {
+      id: 5,
+      title: "To-Do List App",
+      date: "November 2024 - December 2024",
+      description:
+        "This project a To-Do List Web Application that allows users to create, categorize, and manage their tasks efficiently. The application features a user-friendly interface where users can input their name, add tasks, and categorize them as either 'Professional' or 'Personal'. Tasks are stored in local storage, ensuring that data persists even after the page is refreshed.Users can edit, delete, or mark tasks as completed, with a strikethrough effect indicating completion. The app also includes filtering options to display all tasks or filter by category. The styling is done using CSS for a clean and modern design, and JavaScript handles the app’s interactivity. ",
+      image:
+        To_do  ,
+      tags: [ "HTML","CSS","JavaScript", "Bootstrap","local storage" ],
+      
+      github: "",
+      webapp: "https://polite-basbousa-5a6e49.netlify.app/",
     },
     
   ];
